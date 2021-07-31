@@ -1,0 +1,6 @@
+Step 1: Add the httpsclient, httpcore,JSON and TestNG dependencies to pom.xml
+Step 2: Make a folder and package structure.
+Step 3: Create the URI (Web URL plus Service URL) in the property file.
+Step 4: Make a TestBase class just like Page Object Model
+Step 5: Also make the RESTClient class inside the com.qa.client package
+Step 6: Make a Get method which accepts the URI
